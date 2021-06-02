@@ -19,3 +19,5 @@ Run:
   <li>screens/index.js bootstraps the different Screens</li>
   <li>App.js is the App entry file</li>
 </ul>
+
+<img src="https://ibb.co/sw6RGvh" />
